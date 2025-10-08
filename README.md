@@ -72,6 +72,8 @@ This repository is **species-adaptable**:
 ---
 
 ## Reproducibility & Notes
+For the complete workflow, predictions, and visualizations, see the [Jupyter notebook](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction/blob/main/lab-animal-growth-prediction.ipynb).
+
 - Trained models are **saved for future use**, enabling predictions without retraining  
 - The CSV dataset ensures others can **recreate feature engineering, train/test splits, and analyses**  
 - Synthetic data is generated with controlled noise to mimic natural biological variation:  
