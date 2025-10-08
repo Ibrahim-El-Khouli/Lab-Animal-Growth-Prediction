@@ -1,7 +1,7 @@
 # Lab Animal Growth Prediction 
 
 A reproducible machine learning framework for predicting laboratory animal growth trajectories using regression models.  
-While demonstrated using synthetic mouse data, the framework is intentionally **species-agnostic** and can be adapted to other lab animals.  
+While demonstrated using synthetic mouse data, the framework is intentionally **species-adaptable** and can be adapted to other lab animals.  
 This project emphasizes **veterinary interpretability**, with embedded vet notes, pseudocode guidance, and an integrated "Vet Interpretation" column in datasets.
 
 ---
@@ -60,7 +60,7 @@ Mice were chosen because they are **the most widely used laboratory animals**:
 ---
 
 ## Flexibility of the Framework
-This repository is **species-agnostic** and highly adaptable:
+This repository is **species-adaptable**:
 
 - Works for any animal model (rats, guinea pigs, rabbits, non-human primates)  
 - Scales easily to larger datasets, multiple strains, or experimental arms  
