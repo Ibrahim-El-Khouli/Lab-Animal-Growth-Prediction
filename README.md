@@ -85,5 +85,5 @@ weight += np.random.normal(0, 1)  # Simulate natural biological variation
 
 ## Notes
 
-For the full methodology, predictions, and visualizations, see the [Jupyter notebook](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction/blob/main/lab-animal-growth-prediction.ipynb).
+For the complete workflow, predictions, and visualizations, see the [Jupyter notebook]([https://github.com/Ibrahim-El-Khouli/LECI-Lab-Environmental-Comfort-Index/blob/main/LECI-lab-environmental-comfort-index.ipynb](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction/blob/main/lab-animal-growth-prediction.ipynb).
 
