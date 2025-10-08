@@ -80,3 +80,10 @@ This repository is **species-adaptable**:
 # σ = 0.5 g → closer to real mouse variability (< ±1.5 g), but risks overfitting (R² ≈ 1.0)
 # σ = 1.0 g → broader spread (~±3 g), prevents artificial perfection
 weight += np.random.normal(0, 1)  # Simulate natural biological variation
+
+---
+
+## Notes
+
+For the full methodology, predictions, and visualizations, see the [Jupyter notebook](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction/blob/main/lab-animal-growth-prediction.ipynb).
+
