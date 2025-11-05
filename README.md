@@ -355,7 +355,7 @@ It bridges machine learning with veterinary insight, emphasizing both methodolog
 
 ---
 
-## **GitHub Repositories for Previous Work**
+## **GitHub Repositories for Other Work**
 
 - [PostOpPainGuard™](https://github.com/Ibrahim-El-Khouli/PostOpPainGuard.git)
 - [LECI - Lab Environmental Comfort Index](https://github.com/Ibrahim-El-Khouli/LECI-Lab-Environmental-Comfort-Index.git)  
