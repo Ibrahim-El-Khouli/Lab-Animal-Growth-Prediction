@@ -353,6 +353,8 @@ The framework can also scale to:
 This project provides a reproducible, interpretable, and extensible foundation for laboratory animal growth modeling.  
 It bridges machine learning with veterinary insight, emphasizing both methodological rigor and biological meaning—offering a transparent template for researchers studying growth, physiology, and experimental variation in controlled animal settings.
 
+---
+
 ## **GitHub Repositories for Previous Work**
 
 - [PostOpPainGuard™](https://github.com/Ibrahim-El-Khouli/PostOpPainGuard.git)
