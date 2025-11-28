@@ -1,4 +1,4 @@
-# Lab Animal Growth Prediction
+<h1 align="center"><strong>Lab Animal Growth Prediction</strong></h1>
 
 ## Overview
 This project presents a reproducible machine learning framework for predicting laboratory mouse body weight from biological and environmental factors using regression models. The current implementation and validation are performed exclusively on mice using synthetic [data](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction/blob/main/data/mouse_growth.csv) and a fully documented [notebook](https://github.com/Ibrahim-El-Khouli/Lab-Animal-Growth-Prediction/blob/main/lab-animal-growth-prediction.ipynb). While the framework is technically adaptable to other laboratory species, such extension would require retraining on appropriate datasets.
